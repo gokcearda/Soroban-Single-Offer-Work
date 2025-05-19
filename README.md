@@ -23,5 +23,5 @@ Bu proje, Soroban akıllı sözleşme platformu üzerinde geliştirilmiş, tek b
 Projeyi yerel makinenize klonlayın:
 
 ```bash
-git clone <PROJENİZİN_GIT_DEPO_URLSİ_BURAYA>
+git clone https://github.com/gokcearda/Soroban-Single-Offer-Work.git
 cd soroban-single-offer-work

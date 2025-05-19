@@ -1,0 +1,7 @@
+[package]
+name = "single-offer-work"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+soroban-sdk = "22.0.8"
